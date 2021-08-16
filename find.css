@@ -1,0 +1,169 @@
+.Find-icon_box{
+color: white;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Find-icon{
+    margin: 0px 40px 0px 25px;
+}
+
+.Find-icon_text{
+ margin-top: 8px;
+} 
+
+.QR{
+ margin: 0px 22px 0px 13px;
+}
+
+.id{
+margin: 0px 55px 0px 30px;
+}
+
+.recomend-friend{
+    border-top: 1px solid white;
+    border-bottom: 1px solid white;
+    width: 95%;
+    height: 220px;
+    margin-top: 30px;
+}
+
+.recomend-friend_titile{
+    color: white;
+    position: relative;
+    top: 10px;
+}
+
+.recomend-friend_img{
+    height: 60px;
+    border-radius: 60px;
+}
+
+.recomene-friend_box{
+    margin-top: 20px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    opacity: 0.9;
+    display: flex;
+    align-content: center;
+}
+
+.recomend-friend_text{
+    margin-left: 10px;
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.open-chat{
+    margin-top: 15px;
+}
+
+.open-chat_text{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 20px 0px 0px;
+}
+
+.open-chat_title2{
+    margin-top: 1px;
+    font-size: 14px;
+}
+
+.open-chat_box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 15px 22px 0px 5px;
+
+}
+
+.open-chat_box1{
+    background-color: white;
+    height: 100px;
+    width: 190px;
+    border-radius:20px;
+    margin-right: 10px;
+    opacity: 0.9;
+}
+
+.open-chat_box2{
+    background-color: white;
+    height: 100px;
+    width: 190px;
+    border-radius:20px;
+    opacity: 0.9;
+}
+
+.open-chat_box1-img1{
+    height: 30px;
+    width: 30px;
+    display: flex;
+}
+
+
+.open-chat_box1-img1_1{
+    height: 80px;
+    border-radius: 20px;
+    padding: 8px;
+  
+    
+}
+
+.open-chat_box1-img2{
+    height: 30px;
+    width: 30px;
+    display: flex;
+}
+
+.open-chat_box1-img2_2{
+    height: 80px;
+    border-radius: 20px;
+    padding: 8px;
+  
+}
+
+.open-chat_box1-text1{
+ margin-top: 10px;
+}
+.open-chat_box1-title{
+  font-size: 13px;
+  font-weight: 700;
+}
+.open-chat_box1-text{
+    position: relative;
+    top:10px;
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.open-chat_box2-text1{
+    margin-top: 10px;
+   }
+   .open-chat_box2-title{
+     font-size: 13px;
+     font-weight: 700;
+
+   }
+   .open-chat_box2-text{
+       position: relative;
+       top:10px;
+       font-size: 12px;
+       font-weight: 600;
+   }
+
+   .fa-heart{
+       position: relative;
+      left: -30px;
+      top: -8px;
+      color: white;
+      transition: color 1s;
+   }
+
+   .fa-heart:hover{
+       color: blue;
+   }

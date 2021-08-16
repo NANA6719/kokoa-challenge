@@ -1,0 +1,23 @@
+#no-mobile{
+    background:url('/kokoatalk.img/back-ground-nomobile.jpg');
+    background-repeat : no-repeat;
+    background-size : cover;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 99;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 0px;
+    right: 0px;
+   font-size: 28px;
+   font-weight: 700;
+   color:black;
+}
+
+@media screen and (max-width:400px){
+    #no-mobile {
+        display: none;
+    }
+}

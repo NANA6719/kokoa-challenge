@@ -1,0 +1,90 @@
+.chat-box{
+ margin-top: 10px;
+ height: 490px;
+ width: 380px;
+ border-radius: 20px;
+ opacity: 0.9;
+ padding: 10px 0px 0px 10px;
+}
+
+.chat-box_marceline{
+    background-color: white;
+width: 360px;
+ display: flex;
+padding: 5px;
+align-items: center;
+border-radius: 20px;
+   
+
+}
+
+.chat-box_marceline-img img{
+
+    border-radius: 20px;
+}
+
+.chat-box_marceline-title{
+  margin-left: 10px;
+  font-size: 16px;
+  font-weight: 700;
+}
+/* 제이크 */
+
+.chat-box_jake{
+    background-color: white;
+    margin-top: 5px;
+   width: 360px;
+    display: flex;
+   padding: 5px; 
+   align-items: center;
+   border-radius: 20px;
+   
+   
+   }
+   
+   .chat-box_jake-img img{
+   
+       border-radius: 20px;
+   }
+   
+   .chat-box_jake-title{
+     margin-left: 10px;
+     font-size: 16px;
+     font-weight: 700;
+   }
+   /*버블검*/
+   
+.chat-box_bubblegum{
+    margin-top: 5px;
+   width: 360px;
+    display: flex;
+   padding: 5px;
+   align-items: center;
+   background-color: white;
+   border-radius: 20px;
+   
+   }
+   
+   .chat-box_bubblegum-img img{
+   
+       border-radius: 20px;
+   }
+   
+   .chat-box_bubblegum-title{
+     margin-left: 10px;
+     font-size: 16px;
+     font-weight: 700;
+   }
+
+   .chat-box_marceline:hover{
+       box-shadow: 0 5px 20px red;
+       border-radius: 30px;
+   }
+   .chat-box_jake:hover{
+    box-shadow: 0 5px 20px gold;
+    border-radius: 30px;
+}
+.chat-box_bubblegum:hover{
+    box-shadow: 0 5px 20px hotpink;
+    border-radius: 30px;
+}
